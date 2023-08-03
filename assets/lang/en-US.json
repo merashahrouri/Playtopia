@@ -1,0 +1,13 @@
+{
+    "hi":"hello",
+    "welcome":"welcome",
+    "News": "news",
+    "Weather":"weather",
+    "Settings":"settings",
+    "Language":"language",
+    "Help": "help",
+    "Notifications":"notifications",
+    "darkTheme":"dark theme",
+    "lightTheme":"light theme"
+
+}
